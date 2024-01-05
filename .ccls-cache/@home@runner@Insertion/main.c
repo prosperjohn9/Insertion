@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <string.h>
 
 int main() {
   int arr[6] = {1, 3, 5, 7, 9};
